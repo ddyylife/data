@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "color": "red",
+      "radius": 10
+    },
+    {
+      "color": "lightblue",
+      "radius": 5
+    },
+    {
+      "color": "orange",
+      "radius": 10
+    },
+    {
+      "color": "lightblue",
+      "radius": 20
+    },
+    {
+      "color": "yellow",
+      "radius": 15
+    },
+    {
+      "color": "green",
+      "radius": 20
+    }
+  ],
+  "links": [
+
+    {
+      "source": 0,
+      "target": 1
+    },
+
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 2,
+      "target": 3
+    },
+
+    {
+      "source": 3,
+      "target": 4
+    },
+    {
+      "source": 3,
+      "target": 5
+    }
+  ]
+}
